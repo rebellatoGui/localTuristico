@@ -1,7 +1,7 @@
-<h1 align="center"> Local Turístico ✈️ </h1>
+<h1 align="center"> Local Turístico ✈️</h1>
 
 <p align="center">
-Formação exclusiva pela Rocketseat para ensino de tecnologias WEB.
+Página sobre Busan, na Coreia do Sul, com três destinos imperdíveis da cidade
 </p>
 
 <p align="center">
@@ -10,9 +10,7 @@ Formação exclusiva pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="Capa localTuristico" src=".github/preview.jpg">
-</p>
-
+  <img alt="Capa Local Turístico" src="assets/readme-preview.png" style="border-radius: 10px;">
 <br>
 
 ## 🚀 Tecnologias
@@ -20,17 +18,32 @@ Formação exclusiva pela Rocketseat para ensino de tecnologias WEB.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Git e Github
 - Figma
+- Git e Github
 
 ## 💻 Projeto
 
-Este projeto é uma página web desktop com informações sobre um local turístico.
+- O Local Turístico é uma página web desktop que apresenta Busan, na Coreia do Sul, e três destinos imperdíveis da cidade: o Templo Haedong Yonggungsa, o Templo Beomeo-sa e o Parque Yongdusan, cada um com foto e descrição.
 
-Esse é um dos desafios práticos da formação Fullstack, um de nossos conteúdos de especialização.
+- Foi desenvolvido como desafio prático da formação Full-Stack da Rocketseat, reproduzindo um layout do Figma com HTML semântico e CSS.
+
+<h2 align="center">📌 Desenvolvedores</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rebellatoGui" title="GitHub">
+        <img src="https://avatars.githubusercontent.com/u/146299321?v=4" width="100px;" alt="Foto do Guilherme Rebellato no GitHub"/><br>
+        <sub>
+          <b>Guilherme Rebellato</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-Feito com ♥ by Rocketseat
-
-[Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">Feito com ♥ por rebellatoGui</p>
